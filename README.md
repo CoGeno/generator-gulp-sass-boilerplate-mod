@@ -2,7 +2,7 @@
 
 A Yeoman generator that creates a minimal Gulp and Sass front-end workflow.
 
-Customised version of [Coder Coder's Gulp generator](https://github.com/nandomoreirame/generator-gulp-boilerplate) 🙏🏼
+Customised version of [Coder Coder's Gulp generator](https://github.com/thecodercoder/generator-gulp-sass-boilerplate) 🙏🏼
 
 ## Instructions
 

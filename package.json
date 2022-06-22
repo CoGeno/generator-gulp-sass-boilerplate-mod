@@ -1,6 +1,6 @@
 {
   "name": "generator-gulp-sass-boilerplate-mod",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Scaffolds a front-end workflow with Gulp and SCSS based on Coder Coder's scaffold.",
   "main": "index.js",
   "dependencies": {
